@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently building robust Microservices with Node, MongoDB, Kubernetes & RabbitMQ
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with getting a new Role
+- 🤔 I’m looking for help getting a new Role
 - 💬 Ask me about anything Machine learning
 - 📫 How to reach me: alhajee2009@gmail.com
 - 😄 Pronouns: They/Them/Theirs
