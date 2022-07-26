@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything Machine learning
 - 📫 How to reach me: alhajee2009@gmail.com
 - 😄 Pronouns: They/Them/Theirs
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love good food 😋
