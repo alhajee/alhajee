@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🌍 I'm based in Kano, Nigeria
 - 🔭 I’m currently building robust Microservices API with Node, MongoDB, Kubernetes & RabbitMQ
-- 🌱 I’m currently learning MlOps (Machine Learning in Production)
+- 🌱 I’m currently learning MLOps (Machine Learning in Production)
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help getting a new Role
 - 💬 Ask me about anything Machine learning
